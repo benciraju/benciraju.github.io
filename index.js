@@ -1,4 +1,4 @@
-/*function add(){
+function add(){
     var a = document.getElementById('a').value;
     var b = document.getElementById('b').value;
     var c = parseInt(a)+parseInt(b);
@@ -24,7 +24,7 @@ function div(){
     var b = document.getElementById('b').value;
     var c =a/b;
     document.getElementById("result").innerHTML = c;
-}*/
+}
 
 function compute(){
     var a = document.getElementById('a').value;
